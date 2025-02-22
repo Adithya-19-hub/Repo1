@@ -1,0 +1,18 @@
+h1{
+    color:blue;
+    text-align:center;
+    text-decoration:underline double;
+}
+
+.center{
+    display:flex;
+    justify-content: center;
+    margin-top:45px;
+}
+
+.text{
+    width:400px;
+    height:220px;
+    background-color: yellow;
+    font-size:19px;
+}
